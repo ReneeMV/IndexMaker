@@ -4,6 +4,7 @@
  * Mr. Maroney
  * Period 4
  */
+
 public class TestIndex
 {
    
@@ -14,6 +15,7 @@ public class TestIndex
         
     }    
 }
+
 /*
 A: 12,14,15
 ARE: 16
@@ -36,6 +38,4 @@ THERE: 16
 THIS: 11,14
 TWO: 2
 WHAT: 15
-
-
- */
+*/
